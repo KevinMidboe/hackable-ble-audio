@@ -4,7 +4,7 @@ Project to research, find and create a hackable platform for smart audio connect
 
 ## Idea
 Keypoints: 
-looked at what my ble trans/receiver had in its guts in [this video](./resources/pinout.m4v). 
+looked at what my ble trans/receiver I had in its guts in, [images here](./resources/aukey%20board%20images). 
 The main chips I see are:
  - csr8670 - Bluetooth Audio SoC [more info](#csr8670)
  - sgm3717 - 4Ω, 400MHz Bandwidth, Dual, SPDT Negative Signal Handling Analog Switch [more info](#sgm3717)
